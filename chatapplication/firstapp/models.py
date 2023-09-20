@@ -15,3 +15,12 @@ class Message(models.Model):
     user=models.ForeignKey(User,on_delete=models.CASCADE)
     room=models.ForeignKey(Room,on_delete=models.CASCADE)
     created_on=models.DateTimeField(auto_now_add=True)
+
+class UserProfile(models.Model):
+    user = models.OneToOneField(User, on_delete=models.CASCADE)
+    is_online = models.BooleanField(default=False)
+
+    def __str__(self):
+        return self.user.username    
+
+    
