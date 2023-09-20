@@ -73,12 +73,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Screenshots of the project
 
-![Home page](./screenshots/home.png)
+![Home page](./images/home.png)
 
-![Log in page](./screenshots/login.png)
+![Log in page](./images/login.png)
 
-![Register page](./screenshots/register.png)
+![Register page](./images/register.png)
 
-![Chat rooms page](./screenshots/chatrooms.png)
+![Chat rooms page](./images/chatrooms.png)
 
-![Interface of chat room](./screenshots/insideChat.png)
+![Interface of chat room](./images/insideChat.png)
