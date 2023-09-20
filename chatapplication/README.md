@@ -73,12 +73,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Screenshots of the project
 
-![Home page](https://drive.google.com/file/d/18zDV59RExhotSSFo3OL7xQrFTCm6yP9L/view?usp=drive_link)
+![Home page](./screenshots/home.png)
 
-![Log in page](https://drive.google.com/file/d/122LH4e2f61I72MZfPX2NgFUTwXoKg350/view?usp=drive_link)
+![Log in page](./screenshots/login.png)
 
-![Register page](https://drive.google.com/file/d/1VZQjYhFt4bSJVkaCxgtf9s3fXQz5cML1/view?usp=drive_link)
+![Register page](./screenshots/register.png)
 
-![Chat rooms page](https://drive.google.com/file/d/1dvzu3Qhjnec2yU1CeS_940cGy9m23UWd/view?usp=drive_link)
+![Chat rooms page](./screenshots/chatrooms.png)
 
-![Interface of chat room](https://drive.google.com/file/d/19KaGkOLTWQgwYnZSCVIzo7FX_klLsYoO/view?usp=drive_link)
+![Interface of chat room](./screenshots/insideChat.png)
